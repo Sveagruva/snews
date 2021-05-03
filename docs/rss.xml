@@ -1,0 +1,189 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>SNEWS | новости технологий</title>
+<link>https://sveagruva.github.io/snews</link>
+<description>Здесь мы рассказываем о новостях в мире технологий. Всё самое интересное и стоящее внимания с нашей уникальной подачей.</description>
+<language>ru</language>
+<atom:link href="https://sveagruva.github.io/snews/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Голосовой ассистент Siri рассказала о не анонсированном Apple Event</title>
+<link>https://sveagruva.github.io/snews/Internet/221</link>
+<description>Сири рассказала о дате Apple Event</description>
+<category>Internet</category>
+<pubDate>Tue, 13 Apr 2021 19:26:42 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/siir-apple-event-april-20.jpeg" length="37752" type="image/jpeg"/>
+<guid>https://snews.press/Internet/221</guid>
+</item>
+<item>
+<title>Apple объявила дату WWDC 2021</title>
+<link>https://sveagruva.github.io/snews/Internet/220</link>
+<description>Apple объявила дату следующей конференции WWDC</description>
+<category>Internet</category>
+<pubDate>Tue, 30 Mar 2021 19:43:15 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/wwdc21_glow_and_behold.jpeg" length="76810" type="image/jpeg"/>
+<guid>https://snews.press/Internet/220</guid>
+</item>
+<item>
+<title>Google официально анонсировала тёмную тему для андроид приложения google maps</title>
+<link>https://sveagruva.github.io/snews/Internet/218</link>
+<description>google карты получат тёмную тему, но пока, что только на андроид устройствах</description>
+<category>Internet</category>
+<pubDate>Tue, 23 Feb 2021 21:18:20 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/google_maps_dark_theme.jpg" length="65801" type="image/jpeg"/>
+<guid>https://snews.press/Internet/218</guid>
+</item>
+<item>
+<title>Игры разработанные для прошлых поколений Xbox получили функцию FPS Boost на новых консолях</title>
+<link>https://sveagruva.github.io/snews/Internet/217</link>
+<description>Far Cry 4, Watch Dogs 2 и другие игры работают на новых консолях Xbox с удвоенной частотой кадров</description>
+<category>Internet</category>
+<pubDate>Wed, 17 Feb 2021 23:09:51 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/Xbox_BackCompat0217_FBTW_16x9_FINAL_JPG.jpg" length="261258" type="image/jpeg"/>
+<guid>https://snews.press/Internet/217</guid>
+</item>
+<item>
+<title>В Microsoft Edge появится умная блокировка разрешений на уведомления</title>
+<link>https://sveagruva.github.io/snews/Internet/216</link>
+<description>Microsoft Edge получит функцию для автоматической блокировки уведомлений от сайтов, которые по мнению алгоритма не заслуживают внимания пользователя</description>
+<category>Internet</category>
+<pubDate>Wed, 17 Feb 2021 15:33:20 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/edge_notifications_blocked.jpg" length="156765" type="image/jpeg"/>
+<guid>https://snews.press/Internet/216</guid>
+</item>
+<item>
+<title>Microsoft, Google и Qualcomm направили жалобу на покупку Arm компанией Nvidia</title>
+<link>https://sveagruva.github.io/snews/Internet/215</link>
+<description>Крупнейшие американские компании против продажи Arm</description>
+<category>Internet</category>
+<pubDate>Sat, 13 Feb 2021 20:36:03 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/nvidiarm.jpeg" length="81334" type="image/jpeg"/>
+<guid>https://snews.press/Internet/215</guid>
+</item>
+<item>
+<title>Google официально подтвердила публичное тестирование тёмной темы на странице поиска</title>
+<link>https://sveagruva.github.io/snews/Internet/214</link>
+<description>Google публично испытывает тёмную тему</description>
+<category>Internet</category>
+<pubDate>Thu, 11 Feb 2021 22:22:26 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/google-search-dark-theme-web-cover5.png" length="61779" type="image/jpeg"/>
+<guid>https://snews.press/Internet/214</guid>
+</item>
+<item>
+<title>Учёные из Оксфорда разработали способ производства топлива из углекислого газа</title>
+<link>https://sveagruva.github.io/snews/Technology/213</link>
+<description>Учёные из Оксфорда хотят обратить процесс горения для производства топлива.</description>
+<category>Technology</category>
+<pubDate>Mon, 28 Dec 2020 15:31:19 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/fuel_from_co2.jpeg" length="114360" type="image/jpeg"/>
+<guid>https://snews.press/Technology/213</guid>
+</item>
+<item>
+<title>Сбербанк выпустил собственный сервис для облачного гейминга</title>
+<link>https://sveagruva.github.io/snews/Internet/212</link>
+<description>Сбербанк начал открытое бета-тестирование собственного сервиса для облачного гейминга</description>
+<category>Internet</category>
+<pubDate>Sat, 26 Dec 2020 22:09:27 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/sberbox_gamepad_on_phone_and_sberplay.jpeg" length="159509" type="image/jpeg"/>
+<guid>https://snews.press/Internet/212</guid>
+</item>
+<item>
+<title>Российская таможня создаст новую категорию отправлений для иностранных интернет-магазинов</title>
+<link>https://sveagruva.github.io/snews/Internet/211</link>
+<description>Таможня Российской Федерации может выделить иностранные отправления из онлайн магазинов в отдельную категорию</description>
+<category>Internet</category>
+<pubDate>Fri, 25 Dec 2020 22:45:45 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/new_category_for_online_packages.jpeg" length="173297" type="image/jpeg"/>
+<guid>https://snews.press/Internet/211</guid>
+</item>
+<item>
+<title>Huawei начала производство лидаров для автомобилей с автопилотом</title>
+<link>https://sveagruva.github.io/snews/Technology/210</link>
+<description>Huawei начнёт продажу лидаров для автопилотов</description>
+<category>Technology</category>
+<pubDate>Thu, 24 Dec 2020 10:57:21 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/huawei_lidar.jpeg" length="134869" type="image/jpeg"/>
+<guid>https://snews.press/Technology/210</guid>
+</item>
+<item>
+<title>Apple может представить собственный электромобиль уже в следующем году </title>
+<link>https://sveagruva.github.io/snews/Internet/209</link>
+<description>Apple может представить электромобиль уже на следующей сентябрьской презентации</description>
+<category>Internet</category>
+<pubDate>Tue, 22 Dec 2020 12:59:11 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/apple-car-concept.jpeg" length="128677" type="image/jpeg"/>
+<guid>https://snews.press/Internet/209</guid>
+</item>
+<item>
+<title>Вышло обновление приложения Zoom с поддержкой новых MacBook на процессорах M1</title>
+<link>https://sveagruva.github.io/snews/Internet/208</link>
+<description>Zoom получил официальную поддержку M1 маков</description>
+<category>Internet</category>
+<pubDate>Mon, 21 Dec 2020 12:05:32 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/80158_asset_7658245_a3dprintedzoomlogo_1590962641971.jpeg" length="47842" type="image/jpeg"/>
+<guid>https://snews.press/Internet/208</guid>
+</item>
+<item>
+<title>Крупнейшие интернет компании перестали распознавать Казахстанский сертификат безопасным</title>
+<link>https://sveagruva.github.io/snews/Internet/207</link>
+<description>Популярные браузеры отказываются устанавливать предоставленный Казахстаном сертификат, со ссылкой на то, что интернет трафик граждан будет видимым для властей</description>
+<category>Internet</category>
+<pubDate>Sun, 20 Dec 2020 13:28:17 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/internet_web_browser_search_https_encryption_secure.jpeg" length="192232" type="image/jpeg"/>
+<guid>https://snews.press/Internet/207</guid>
+</item>
+<item>
+<title>Gmail, YouTube, Google Documents и остальные сервисы Google перестали работать</title>
+<link>https://sveagruva.github.io/snews/Internet/205</link>
+<description>Большинство предоставляемых google онлайн сервисов перестали работать за исключением поиска</description>
+<category>Internet</category>
+<pubDate>Mon, 14 Dec 2020 15:43:06 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/youtube_and_other_google_services_went_down.jpeg" length="35608" type="image/jpeg"/>
+<guid>https://snews.press/Internet/205</guid>
+</item>
+<item>
+<title>Apple представила полноразмерные беспроводные наушники AirPods Max</title>
+<link>https://sveagruva.github.io/snews/Internet/204</link>
+<description>Apple представила новые беспроводные наушники под названием AirPods Max</description>
+<category>Internet</category>
+<pubDate>Tue, 08 Dec 2020 18:56:12 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/AirPods_Max_with_iPhone.jpg" length="100717" type="image/jpeg"/>
+<guid>https://snews.press/Internet/204</guid>
+</item>
+<item>
+<title>Google выпустила 87 версию Chrome</title>
+<link>https://sveagruva.github.io/snews/Internet/203</link>
+<description>Новая версия Chrome получила большое увеличение производительности и времени автономной работы</description>
+<category>Internet</category>
+<pubDate>Wed, 18 Nov 2020 13:42:52 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/chrome_87_update.jpg" length="34713" type="image/jpeg"/>
+<guid>https://snews.press/Internet/203</guid>
+</item>
+<item>
+<title>AMD представила новые видеокарты и архитектуру RDNA 2</title>
+<link>https://sveagruva.github.io/snews/Technology/202</link>
+<description>AMD представила новую революционную архитектуру, которая в два раза более производительная чем прошлое поколение</description>
+<category>Technology</category>
+<pubDate>Fri, 30 Oct 2020 16:34:54 +0300</pubDate>
+<dc:creator>SNEWS</dc:creator>
+<enclosure url="https://sveagruva.github.io/snews/img/articles/amd_proccessor_on_rdna_2.jpg" length="187850" type="image/jpeg"/>
+<guid>https://snews.press/Technology/202</guid>
+</item>
+</channel>
+</rss>
