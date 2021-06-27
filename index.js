@@ -26,14 +26,9 @@ const create = (from, to) => {
 
     // remove html comments
     html = html.replace(/<\!--.*?-->/mgis, '');
-    html.match(/{{{.*?}}}/mgi).forEach(match => {
-        let variableName = match.slice(3, -3);
-        let value = '';
-
-        if(vars[variableName] !== undefined) 
-            value = vars[variableName];
-
-        html = html.replace(match, value);
+    html.match(/{{{.*?}}}/mgi).forEach(matched => {
+        let variableName = matched.slice(3, -3);
+        html = html.replace(matched, vars[variableName] === undefined ? '' : vars[variableName]);
     });
 
     fs.writeFileSync(to, html);
