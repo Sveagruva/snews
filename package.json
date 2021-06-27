@@ -14,5 +14,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sveagruva/snews/issues"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0"
   }
 }

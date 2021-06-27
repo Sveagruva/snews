@@ -1,5 +1,11 @@
 const fs = require('fs');
 const p = require('path');
+const fse = require('fs-extra');
+
+
+const buildDir = p.join(__dirname, 'build');
+if(!fs.existsSync(buildDir))
+    fs.mkdirSync(buildDir);
 
 const header = fs.readFileSync(p.join(__dirname, 'comp' , 'header.html'), 'utf-8');
 const footer = fs.readFileSync(p.join(__dirname, 'comp', 'footer.html'), 'utf-8');
@@ -45,4 +51,5 @@ const sendAll = (from, abs) => {
     });
 }
 
-sendAll(p.join(__dirname, 'site'), p.join(__dirname, 'docs'));
+fse.copySync(p.join(__dirname, 'docs'), buildDir);
+sendAll(p.join(__dirname, 'site'), buildDir);
